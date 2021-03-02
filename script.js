@@ -1,4 +1,4 @@
-const date = new Date("Jan 5, 2022 15:37:25").getTime();
+const date = new Date("June 1, 2021 12:00:00").getTime();
 
 var x = setInterval(function() {
 
