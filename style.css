@@ -5,7 +5,7 @@ p#countdown {
     transform: translate(-50%, -50%);
     text-align: center;
     color:rgb(0, 113, 133);
-    font-size: 36px;
+    font-size: 3vw;
 }
 
 p#center {
@@ -15,6 +15,6 @@ p#center {
     transform: translate(-50%, -50%);
     text-align: center;
     color:rgb(0, 64, 75);
-    font-size: 36px;
+    font-size: 4vw;
     font-family: monospace ;
 }
